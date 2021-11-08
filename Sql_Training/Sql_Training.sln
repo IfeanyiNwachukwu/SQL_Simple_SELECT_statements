@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.31613.86
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "SELECT_statements", "SELECT_statements\SELECT_statements.sqlproj", "{E227BB0E-BD78-4C5E-BC1C-366D2C9F9FCC}"
 EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "Accounts_Payable", "Accounts_Payable\Accounts_Payable.sqlproj", "{2F6CE021-EAE1-4316-A0F4-1564055AD708}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,6 +19,12 @@ Global
 		{E227BB0E-BD78-4C5E-BC1C-366D2C9F9FCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E227BB0E-BD78-4C5E-BC1C-366D2C9F9FCC}.Release|Any CPU.Build.0 = Release|Any CPU
 		{E227BB0E-BD78-4C5E-BC1C-366D2C9F9FCC}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{2F6CE021-EAE1-4316-A0F4-1564055AD708}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F6CE021-EAE1-4316-A0F4-1564055AD708}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F6CE021-EAE1-4316-A0F4-1564055AD708}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{2F6CE021-EAE1-4316-A0F4-1564055AD708}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F6CE021-EAE1-4316-A0F4-1564055AD708}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F6CE021-EAE1-4316-A0F4-1564055AD708}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
